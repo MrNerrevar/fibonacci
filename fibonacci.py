@@ -4,4 +4,4 @@ def fib(n):
   a,b = b,a+b
   print a
  return a
-fib(15)
+fib(20)
